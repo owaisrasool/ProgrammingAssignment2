@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This function gets the inverse of a matrix, stores it, and then
+## calls it in the future from the cache, if the same matrix is
+## computed.
 
 ## This function creates a special matrix that holds the value of 
 ## the output from the function cacheSolve, allowing us to save
